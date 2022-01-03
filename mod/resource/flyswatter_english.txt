@@ -7,7 +7,7 @@
 		"PL_fly_lobby" "Flyswatter Lobby"
 		"PL_fly_desc" "Permadeath. Punch fast pilots or rodeo powerful titans"
 		"PL_fly_abbr" "FLY"
-		"GAMEMODE_FLY" "Flyswatter"
+		"GAMEMODE_fly" "Flyswatter"
 		"FLYSWATTER_YOU_ARE_FLY" "You are a fly!"
 		"FLYSWATTER_FLY_GOAL" "Rodeo titans and don't get punched!"
 		"FLYSWATTER_YOU_ARE_SWATTER" "You are a swatter!"
